@@ -1,9 +1,9 @@
 
 ### Desafio
-Olá, queremos convidá-lo(a) a participar do nosso desafio de seleção.  Pronto(a) para participar? Seu trabalho será visto pelo nosso time e você receberá um feedback ao final sobre o que achamos do seu trabalho. Não é legal?
+Olá, queremos convidá-lo(a) a participar do nosso desafio de seleção. Pronto(a) para participar? Seu trabalho será visto pelo nosso time e você receberá um feedback ao final sobre o que achamos do seu trabalho. Não é legal?
 
 ### Sobre a oportunidade 
-A vaga é para Desenvolvedor(a), temos vagas com diversos níveis de senioridade e para cada um deles utilizaremos critérios específicos considerando este aspecto, combinado? 
+A vaga é para Desenvolvedor(a). Temos vagas com diversos níveis de senioridade e para cada um deles utilizaremos critérios específicos considerando este aspecto, combinado? 
 Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 
 ### Desafio Técnico
@@ -24,7 +24,7 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
     | dataCriacao | Data |
 
     ```
-    * Transações realizadas na conta
+    * Transações realizadas na conta:
     ```
     | Transacoes | Tipo |
     |-|-|
@@ -33,9 +33,9 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
     | valor | Monetário |
     | dataTransacao | Data |
 
-  - As transacoes e contas deverao estar registradas em uma das seguintes opcoes:
+  - As transacoes e contas deverao estar registradas em uma das seguintes opções:
     ```
-    * Em memoria;
+    * Em memória;
     * Arquivo;
     * Banco de dados;
     ```
@@ -49,12 +49,12 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 
   - O que esperamos como escopo mínimo:
     ```
-    * Implementar operacao que realiza a criação de uma conta;
-    * Implementar operacao que realiza operação de depósito em uma conta;
-    * Implementar operacao que realiza operação de consulta de saldo em determinada conta;
-    * Implementar operacao que realiza operação de saque em uma conta;
-    * Implementar operacao que realiza o bloqueio de uma conta;
-    * Implementar operacao que recupera o extrato de transações de uma conta;
+    * Implementar operação que realiza a criação de uma conta;
+    * Implementar operação que realiza operação de depósito em uma conta;
+    * Implementar operação que realiza operação de consulta de saldo em determinada conta;
+    * Implementar operação que realiza operação de saque em uma conta;
+    * Implementar operação que realiza o bloqueio de uma conta;
+    * Implementar operação que recupera o extrato de transações de uma conta;
     ```
 
   - O que será diferencial:
@@ -67,7 +67,7 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
 
 ### Instruções
       1. Faça o fork do desafio;
-      2. Crie um repositório privado no seu github para o projeto e adicione como colaborador os usuários dvpereira e wesleyjoliveira;
+      2. Crie um repositório privado no seu github para o projeto e adicione como colaborador os usuários nattanlucena e wesleyjoliveira;
       3. Desenvolva. Você terá 7 (sete) dias a partir da data do envio do desafio; 
       4. Após concluir seu trabalho faça um push; 
       5. Envie um e-mail à pessoa que está mantendo o contato com você durante o processo notificando a finalização do desafio para validação.
