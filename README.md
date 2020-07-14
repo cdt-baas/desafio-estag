@@ -11,7 +11,8 @@ Se você for aprovad(a) nesta etapa, será convidado para uma entrevista final.
   
   - Pré-requisitos:
     ```
-    * Desenvolver os recursos que realizam operações bancárias a partir de inputs no console com a entidade conta a seguir:
+    * Desenvolver os recursos que realizam operações bancárias a partir de 
+      inputs no console com a entidade conta a seguir:
     ```
     | Contas | Tipo |
     |-|-|
